@@ -1,7 +1,7 @@
 # Sistema de Lista de Tarefas
 
 ## Aluno
-Juan Blanco
+Juan Felipe Blanco Regueira
 
 ## Descrição do Sistema
 
