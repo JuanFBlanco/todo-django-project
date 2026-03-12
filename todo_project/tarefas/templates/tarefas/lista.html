@@ -1,0 +1,14 @@
+<h1>Lista de Tarefas</h1>
+
+<a href="/criar/">Nova Tarefa</a>
+
+<ul>
+{% for tarefa in tarefas %}
+<li>
+{{ tarefa.titulo }} - {{ tarefa.usuario.nome }}
+
+<a href="/excluir/{{ tarefa.id }}">Excluir</a>
+
+</li>
+{% endfor %}
+</ul>
