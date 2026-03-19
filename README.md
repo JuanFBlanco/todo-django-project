@@ -18,6 +18,7 @@ O objetivo do projeto é aplicar conceitos fundamentais de programação em Pyth
 
 - Criar novas tarefas
 - Visualizar lista de tarefas
+- Editar tarefas
 - Excluir tarefas
 - Relacionar tarefas a usuários
 - Interface web simples para gerenciamento das tarefas
